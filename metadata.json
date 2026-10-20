@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jamboarder@yahoo.com",
+                "Name": "Jamboarder"
+            },
+            {
+                "Email": "marian@kadanka.net",
+                "Name": "Marian Kadanka"
+            }
+        ],
+        "Description": "Crisp minimalist theme",
+        "EnabledByDefault": true,
+        "Id": "plateau-plasma6",
+        "License": "GPL-2.0-or-later",
+        "Name": "Plateau (Plasma 6)",
+        "Version": "1.1",
+        "Website": "https://github.com/marian-kadanka/plateau-plasma6"
+    },
+    "X-Plasma-API": "5.0"
+}
